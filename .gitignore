@@ -152,13 +152,15 @@ cython_debug/
 #.idea/
 
 # Images
-.png
-.jpg
-.jpeg
+*.png
+*.jpg
+*.jpeg
 
 # Presentations
-.ppt
-.pptx
+*.ppt
+*.pptx
 
 # Output folders
-outputs
+*outputs
+*.Rhistory
+
